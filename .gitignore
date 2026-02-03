@@ -1,0 +1,12 @@
+# Ignore virtual environment (Huge folder, not needed on GitHub)
+venv/
+
+# Ignore secrets (NEVER push this!)
+.env
+
+# Ignore compiled python files
+__pycache__/
+*.pyc
+
+# Ignore scraped data (Optional, keeps repo clean)
+transcripts/
