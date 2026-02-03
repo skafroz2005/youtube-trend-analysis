@@ -106,3 +106,9 @@ Agent Roles: Who the AI is pretending to be.
 Backstories: The context given to the AI.
 
 Tasks: Specific instructions on what to analyze (e.g., focusing on specific keywords or sentiment).
+
+
+👤 Author
+Afroz
+
+GitHub: @skafroz2005
